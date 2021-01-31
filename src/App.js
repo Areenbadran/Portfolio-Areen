@@ -7,6 +7,7 @@ class App extends Component {
     return (
   <div>
     hi areeeen
+    try 
   </div>
     );
   }
