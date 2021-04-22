@@ -1,30 +1,17 @@
 import React, { Component } from "react";
+import profilePic from "../images/A86P00055.jpg";
 
 export default class Sidebar extends Component {
   render() {
     return (
       <div>
         <div>
-          <nav
-            href="#navbar"
-            className="js-colorlib-nav-toggle colorlib-nav-toggle"
-            data-toggle="collapse"
-            data-target="#navbar"
-            aria-expanded="false"
-            aria-controls="navbar"
-          >
-            <i />
+          <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar"  aria-expanded="false" aria-controls="navbar">
+            <i/>
           </nav>
-          <aside
-            id="colorlib-aside"
-            className="border js-fullheight"
-            style={{ backgroundColor: "#FFFAFA" }}
-          >
+          <aside id="colorlib-aside" className="border js-fullheight" style={{ backgroundColor: "#FFFAFA" }}>
             <div className="text-center">
-              <div
-                className="author-img"
-                style={{ backgroundImage: "url(images/A86P00055.jpg)" }}
-              />
+              <div className="author-img" style={{ backgroundImage: `url(${profilePic})` }}></div>
               <h1 id="colorlib-logo">
                 <a href="index.html">Areen Badran</a>
               </h1>

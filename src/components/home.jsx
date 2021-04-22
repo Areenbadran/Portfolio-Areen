@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import Background from "../images/james-harrison-vpOeXr5wmR4-unsplash222.jpg";
+
 
 export default class Home extends Component {
   render() {
@@ -12,9 +14,7 @@ export default class Home extends Component {
           <div className="flexslider js-fullheight">
             <ul className="slides">
               <li
-                style={{
-                  backgroundImage: "url(images/people-2591874_1280.webp)",
-                }}
+                style={{ backgroundImage: `url(${Background})` }}
               >
                 <div className="overlay" />
                 <div className="container-fluid">
@@ -22,7 +22,7 @@ export default class Home extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h2 style={{ fontSize: "35px" }}>
+                          <h2 style={{ fontSize: "35px", color:"white"}}>
                             I want to make things that make a difference...
                           </h2>
                           <p>
@@ -44,9 +44,7 @@ export default class Home extends Component {
               </li>
 
               <li
-                style={{
-                  backgroundImage: "url(images/people-2591874_1280.webp)",
-                }}
+             style={{ backgroundImage: `url(${Background})` }}
               >
                 <div className="overlay" />
                 <div className="container-fluid">
