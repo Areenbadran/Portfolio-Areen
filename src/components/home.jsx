@@ -22,7 +22,7 @@ export default class Home extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h2 style={{ fontSize: "35px", color:"white"}}>
+                          <h2 style={{ fontSize: "35px", color:"black"}}>
                             I want to make things that make a difference...
                           </h2>
                           <p>
