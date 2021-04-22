@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Areen/static/css/main.9107bead.chunk.css",
+    "main.js": "/Portfolio-Areen/static/js/main.d83a9a25.chunk.js",
+    "main.js.map": "/Portfolio-Areen/static/js/main.d83a9a25.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Areen/static/js/runtime-main.09559884.js",
+    "runtime-main.js.map": "/Portfolio-Areen/static/js/runtime-main.09559884.js.map",
+    "static/js/2.37fa4496.chunk.js": "/Portfolio-Areen/static/js/2.37fa4496.chunk.js",
+    "static/js/2.37fa4496.chunk.js.map": "/Portfolio-Areen/static/js/2.37fa4496.chunk.js.map",
+    "static/js/3.0295e143.chunk.js": "/Portfolio-Areen/static/js/3.0295e143.chunk.js",
+    "static/js/3.0295e143.chunk.js.map": "/Portfolio-Areen/static/js/3.0295e143.chunk.js.map",
+    "index.html": "/Portfolio-Areen/index.html",
+    "static/css/main.9107bead.chunk.css.map": "/Portfolio-Areen/static/css/main.9107bead.chunk.css.map",
+    "static/js/2.37fa4496.chunk.js.LICENSE.txt": "/Portfolio-Areen/static/js/2.37fa4496.chunk.js.LICENSE.txt",
+    "static/media/A86P00055.cc9bf3aa.jpg": "/Portfolio-Areen/static/media/A86P00055.cc9bf3aa.jpg",
+    "static/media/maxwell-nelson-taiuG8CPKAQ-unsplash.f4879a8b.jpg": "/Portfolio-Areen/static/media/maxwell-nelson-taiuG8CPKAQ-unsplash.f4879a8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09559884.js",
+    "static/js/2.37fa4496.chunk.js",
+    "static/css/main.9107bead.chunk.css",
+    "static/js/main.d83a9a25.chunk.js"
+  ]
+}
